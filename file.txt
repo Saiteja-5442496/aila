@@ -1,0 +1,4 @@
+\documentclass{article}
+\begin{document}
+Hello from DevOps Lab!
+\end{document}
